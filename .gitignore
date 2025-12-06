@@ -1,24 +1,24 @@
-# Python opšti
+# Python related
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 *.so
 
-# Virtualna okruženja
+# Variations of venv
 .venv/
 venv/
 env/
 
-# Build / distribucija
+# Build / dist
 dist/
 build/
 *.egg-info/
 
-# Lokalne test skripte / helperi (opciono)
+# Local
 test_*.py
 
-# Kredencijali i tokeni (VEOMA VAŽNO)
+# Remove credentials !!IMportant
 gsc_credentials/
 *.pickle
 *.json
