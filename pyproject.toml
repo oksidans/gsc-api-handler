@@ -7,16 +7,15 @@ name = "gsc-api-handler"
 dynamic = ["version"]
 description = "Fetches data from Google Search Console and stores it into SQLite"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "bcopauto", email = "mzivkovic@bettercollective.com" },
+  { name = "oksidans", email = "zmiroljub.zivkovic@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python",
-  "Programming Language :: Python :: 3.8",
   "Programming Language :: Python :: 3.9",
   "Programming Language :: Python :: 3.10",
   "Programming Language :: Python :: 3.11",
@@ -36,9 +35,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/bcopauto/gsc-api-handler#readme"
-Issues = "https://github.com/bcopauto/gsc-api-handler/issues"
-Source = "https://github.com/bcopauto/gsc-api-handler"
+Documentation = "https://github.com/oksidans/gsc-api-handler#readme"
+Issues = "https://github.com/oksidans/gsc-api-handler/issues"
+Source = "https://github.com/oksidans/gsc-api-handler"
 
 [tool.hatch.version]
 path = "src/gsc_api_handler/__about__.py"
