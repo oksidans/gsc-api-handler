@@ -28,3 +28,4 @@ gsc_credentials/
 .vscode/
 .idea/
 *.swp
+.venv/
