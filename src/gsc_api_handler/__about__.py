@@ -1,4 +1,4 @@
 # SPDX-FileCopyrightText: 2025-present oksidans <zmiroljub.zivkovic@gmail.com>
 #
 # SPDX-License-Identifier: MIT
-__version__ = "1.0.3"
+__version__ = "1.0.4"
